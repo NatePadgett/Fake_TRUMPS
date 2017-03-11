@@ -15,7 +15,7 @@ particularly as a distraction from himself and his team. For this project, I loo
 containing the word "fake", allowing me to isolate these statements from the full 412 line text. 
 
 CONSIDERATIONS
-I wanted to clean up the text that campe form the script as much as possible, to focus on what was said, some from Trump
+I wanted to clean up the text that came form the script as much as possible, to focus on what was said, some from Trump
 and some form the reporters at the press conference. I stripped out instances of "TRUMP:" and "QUESTION:" from the transcript
 and tried to remove other unwanted words such as (inaudible) and (ph). For some reason that I haven't yet figured out,
 stripping them didn't work. I'll have to keep playing with that. 
